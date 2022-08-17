@@ -1,0 +1,26 @@
+.npbwsp{
+	display:table;
+	width:100%;
+	margin:15px 0;
+}
+
+.npbwsp__previous,
+.npbwsp__next{
+	display:table-cell;
+	width:50%;
+	vertical-align:middle;
+}
+
+.npbwsp__next{
+	text-align:right;
+}
+
+@media(max-width:767px){
+	.npbwsp,
+	.npbwsp__previous,
+	.npbwsp__next{
+		display:block;
+		width:auto;
+		text-align:left;
+	}
+}
