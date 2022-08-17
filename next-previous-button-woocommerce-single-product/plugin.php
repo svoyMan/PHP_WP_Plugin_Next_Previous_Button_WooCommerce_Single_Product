@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Next Previous Button Woocommerce Single Product
- * Plugin URI: git@github.com:svoyMan/PHP_WP_Plugin_Switch_Polylang_To_Ukrainian_language.git
+ * Plugin URI: https://github.com/svoyMan/PHP_WP_Plugin_Next_Previous_Button_WooCommerce_Single_Product.git
  * Description: Shows next and previous woocommerce product in single product view.
  * Version: 1.0
  * Requires at least: 5.0
